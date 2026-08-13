@@ -1,7 +1,7 @@
 package revisaoVetores;
 
-import java.util.Scanner;
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Ex2 {
 
